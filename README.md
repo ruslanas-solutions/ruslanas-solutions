@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruslanas-solutions
-- 👀 I’m interested in Cyber Security and Web Design
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Information and Cyber Security
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sukhotska_official@tutanota.com
 
